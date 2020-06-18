@@ -1,0 +1,27 @@
+{
+  "name": "NLW_JS",
+  "version": "1.0.0",
+  "description": "Project related to [NLW](https://nextlevelweek.com/inscricao/1) week, abording front-end concepts",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasPepper/NLW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasPepper/NLW/issues"
+  },
+  "homepage": "https://github.com/LucasPepper/NLW#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
